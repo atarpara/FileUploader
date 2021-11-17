@@ -1,5 +1,5 @@
 <p align="center">
-**Decentralize Storage **
+Decentralize Storage
 </p>
 <p align="center">
 <img src="src\dapp.png" title="Storage">
