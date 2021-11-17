@@ -2,7 +2,7 @@
 Decentralize Storage 
 </p>
 <p align="center">
-<img src="\src\dapp.png" width="400" title="Storage">
+<img src="src\dapp.png" width="400" title="Storage">
 </p>
 
 
